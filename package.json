@@ -1,0 +1,22 @@
+{
+  "name": "node-issue-zero",
+  "version": "1.0.0",
+  "description": "My Issue Zero RestFull API using NodeJS. This project is just to study end understande the NodeJS tricks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunfreitas/node-issue-zero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunfreitas/node-issue-zero/issues"
+  },
+  "homepage": "https://github.com/sunfreitas/node-issue-zero#readme",
+  "engines": {
+    "node": "7.7.3"
+  }
+}
